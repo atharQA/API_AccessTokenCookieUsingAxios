@@ -1,0 +1,27 @@
+{
+  "name": "axiosapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharQA/API_AccessTokenCookieUsingAxios.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "athar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharQA/API_AccessTokenCookieUsingAxios/issues"
+  },
+  "homepage": "https://github.com/atharQA/API_AccessTokenCookieUsingAxios#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "https": "^1.0.0",
+    "protractor": "^5.4.2"
+  }
+}
